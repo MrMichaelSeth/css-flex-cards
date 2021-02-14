@@ -1,9 +1,6 @@
 # css-flex-cards
 CSS Flexbox Card Layout
 
-![Flexbox Full Card Layout](https://github.com/code-differently/css-flex-cards/blob/main/img/flexbox-full-cards.jpg)
-![]()
-![]()
 
 ## Part 1
 
@@ -18,3 +15,8 @@ CSS Flexbox Card Layout
 
 * Use [`calc()` function](https://developer.mozilla.org/en-US/docs/Web/CSS/calc()) to subtract a few rems when defining the space between cards
 * Add a subtle shadow effect behind individual cards on hover.
+
+
+![Flexbox Full Card Layout](https://github.com/code-differently/css-flex-cards/blob/main/img/flexbox-full-cards.jpg)
+![Flexbox Tablet Card Layout](https://github.com/code-differently/css-flex-cards/blob/main/img/flexbox-tablet-cards.jpg)
+![Flexbox Mobile Card Layout](https://github.com/code-differently/css-flex-cards/blob/main/img/flexbox-mobile-cards.jpg)
