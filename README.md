@@ -1,7 +1,7 @@
 # css-flex-cards
 CSS Flexbox Card Layout
 
-![https://github.com/code-differently/css-flex-cards/blob/main/img/flexbox-full-cards.jpg](Flexbox Full Cards)
+![Flexbox Full Card Layout](https://github.com/code-differently/css-flex-cards/blob/main/img/flexbox-full-cards.jpg)
 ![]()
 ![]()
 
