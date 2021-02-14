@@ -1,0 +1,76 @@
+/* Card Based Layout - Base styles */
+
+body {
+	background: hsl(0, 0%, 90%);
+}
+
+.masthead {
+	background: hsl(0, 0%, 20%);
+}
+
+.site-title {
+	color: white;
+}
+
+.card {
+
+}
+
+.card a {
+	
+}
+
+.card a:hover {
+	
+}
+
+.card-content {
+	
+}
+
+.card-content h2 {
+
+}
+
+.card-content p {
+	
+}
+
+/* Flexbox stuff */
+
+@media screen and (min-width: 40em) {
+    .cards {
+        display: ;
+        flex-wrap: ;
+        justify-content: ;
+        
+    }
+
+    .card {
+        display: ;
+        flex: 0 1 calc(50% - .5em);
+        
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .cards {
+        
+    }
+    
+    .card {
+        flex: ;
+        margin-bottom: 2em;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
