@@ -45,12 +45,12 @@ body {
     .cards {
         display: flex;
         flex-wrap: wrap;
-        justify-content: center;
+        justify-content:space-between;
     }
 
     .card {
         display: flex;
-        flex: 0 2 calc(50% - .5em);
+        flex: 0 1 calc(50% - .5em);
        
     }
 }
@@ -59,12 +59,10 @@ body {
     .cards {
         display: flex;
         flex-wrap: wrap;
-        justify-content: center ;
     }
     
     .card {
-        flex: 0 1 calc(33% - 2em) ;
-        margin: 1rem;
+        flex: 0 1 calc(33% - 1em) ;
         margin-bottom: 2em;
     }
 }
